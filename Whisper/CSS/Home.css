@@ -1,0 +1,28 @@
+*{
+    background-color:papayawhip;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+main
+
+body{
+    font-size: 40px;
+    
+    color:rgb(128, 0, 128);
+    border: 3px solid black;
+
+}
+
+
+p{
+    font-size: 32px;
+    color:rgb(32, 3, 3)
+}
+
+.gray {
+    color:gray
+}
+
+p span{
+    background-color:gold
+}
